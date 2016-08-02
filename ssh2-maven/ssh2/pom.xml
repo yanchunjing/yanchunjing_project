@@ -14,7 +14,7 @@
 	    <repository>  
 	        <id>java</id>  
 	        <name>java official repository</name>  
-	        <url>http://download.java.net/maven/2/</url>  
+	        <url>http://java.sun.com/products/jta</url>  
 	    </repository>  
 	</repositories>
 	<dependencies>
